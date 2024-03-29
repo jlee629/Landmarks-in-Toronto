@@ -1,0 +1,95 @@
+[
+    {
+      "name": "Old Buildings",
+      "landmarks": [
+        {
+          "name": "Bank of Toronto",
+          "address": "205 Yonge St, Toronto, ON M5B 0C4",
+          "latitude": 43.6538,
+          "longitude": -79.3795
+        },
+        {
+          "name": "Fourth York Post Office",
+          "address": "260 Adelaide St E, Toronto, ON M5A 1N1",
+          "latitude": 43.6517,
+          "longitude": -79.3694
+        },
+        {
+          "name": "Gooderham Building",
+          "address": "49 Wellington St E, Toronto, ON M5E 1C9",
+          "latitude": 43.6481,
+          "longitude": -79.3773
+        }
+      ]
+    },
+    {
+      "name": "Museums",
+      "landmarks": [
+        {
+          "name": "Royal Ontario Museum",
+          "address": "100 Queens Park, Toronto, ON M5S 2C6",
+          "latitude": 43.6679,
+          "longitude": -79.3948
+        },
+        {
+          "name": "Aga Khan Museum",
+          "address": "77 Wynford Dr, North York, ON M3C 1K1",
+          "latitude": 43.7254,
+          "longitude": -79.3322
+        },
+        {
+          "name": "Textile Museum of Canada",
+          "address": "55 Centre Ave, Toronto, ON M5G 2H5",
+          "latitude": 43.6546,
+          "longitude": -79.3866
+        }
+      ]
+    },
+    {
+      "name": "Stadiums",
+      "landmarks": [
+        {
+          "name": "Rogers Center",
+          "address": "1 Blue Jays Way, Toronto, ON M5V 1J1",
+          "latitude": 43.6431,
+          "longitude": -79.3899
+        },
+        {
+          "name": "BMO Field",
+          "address": "170 Princes' Blvd, Toronto, ON M6K 3C3",
+          "latitude": 43.6349,
+          "longitude": -79.4193
+        },
+        {
+          "name": "Central Tech Stadium",
+          "address": "725 Bathurst St, Toronto, ON M5S 2R5",
+          "latitude": 43.6640,
+          "longitude": -79.4095
+        }
+      ]
+    },
+    {
+      "name": "Attractions",
+      "landmarks": [
+        {
+          "name": "Nathan Phillips Square",
+          "address": "100 Queen St W, Toronto, ON M5H 2N1",
+          "latitude": 43.6529,
+          "longitude": -79.3835
+        },
+        {
+          "name": "Berczy Park",
+          "address": "35 Wellington St E, Toronto, ON M5E 1C6",
+          "latitude": 43.6483,
+          "longitude": -79.3752
+        },
+        {
+          "name": "Toronto Music Garden",
+          "address": "479 Queens Quay W, Toronto, ON M5V 3M8",
+          "latitude": 43.6395,
+          "longitude": -79.3935
+        }
+      ]
+    }
+]
+
